@@ -1,0 +1,7 @@
+Labratory 1 exercise 9:
+
+Pretty much everything in this labratory was new to me. I'm completely new to C++, aswell as object oriented programming.
+Having almost no prior experience in coding, i felt like the exercises difficulty was at a good level. I had to think for most of them to get them right, but
+it didn't take forever to complete them. The things we have gone over in the lessons intersected perfectly with the assignments.
+The hardest assignment was probably number 5. Using scanf_s and printf_s felt a bit weird, and we hadn't gone over it a lot on the lessons. It ended up being a lot of
+trial and error, and searching the web before finding a good solution that worked.
